@@ -11,3 +11,7 @@ This repo is to save the assets which have been used in projects, and reuse them
 ![text_input.gif](text_input.gif)
 
 ![tic_tac_toe.gif](tic_tac_toe.gif)
+
+![animation_in_c.gif](animation_in_c.gif)
+
+![besort.gif](besort.gif)
