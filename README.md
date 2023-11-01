@@ -4,6 +4,8 @@ This repo is to save the assets which have been used in projects, and reuse them
 
 ![animation_in_c.gif](animation_in_c.gif)
 
+![aur_arch.gif](aur_arch.gif)
+
 ![besort.gif](besort.gif)
 
 ![c_programs.gif](c_programs.gif)
